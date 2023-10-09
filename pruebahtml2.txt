@@ -1,0 +1,13 @@
+<!docttype html
+<html>
+<head>
+     <meta charset = ütf-8  />
+	 <title>Mi pagina de prueba>/title>
+	 </head>
+	 <body>
+	     <h1>lenguaje de marcas>/h1>
+		 <p>Nos vamos a casa>/p>
+		 
+	<body>
+</html>	
+	
